@@ -181,7 +181,7 @@ export default function Home() {
         }`}
       >
         <div className="flex justify-center md:w-full">
-          <p className="text-3xl font-bold py-3 ">Tokenomics</p>
+          <p className="text-3xl font-extrabold py-3 ">Tokenomics</p>
         </div>
         <div className="bg-[#FED034] w-full rounded-lg flex justify-start flex-col items-center shadow-md m-2 p-4 md:w-4/5">
           <p className="text-3xl font-bold">Token Supply </p>
