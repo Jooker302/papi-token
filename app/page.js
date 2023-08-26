@@ -165,7 +165,7 @@ export default function Home() {
           alt="Logo"
           className=" h-32 w-32 md:h-64 md:w-64 rounded-full"
         />
-        <h2 className="mt-4 text-xl font-semibold md:text-2xl">
+        <h2 className="mt-4 text-xl font-extrabold md:text-2xl">
           🎉🌟Introducing🌟🎉
         </h2>
         <p className="mt-4 text-xl font-semibold text-center ">
@@ -181,7 +181,7 @@ export default function Home() {
         }`}
       >
         <div className="flex justify-center md:w-full">
-          <p className="text-3xl font-bold py-3 ">Tokennomics</p>
+          <p className="text-3xl font-bold py-3 ">Tokenomics</p>
         </div>
         <div className="bg-[#FED034] w-full rounded-lg flex justify-start flex-col items-center shadow-md m-2 p-4 md:w-4/5">
           <p className="text-3xl font-bold">Token Supply </p>
