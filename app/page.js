@@ -137,7 +137,7 @@ export default function Home() {
               Telegram
             </a>
             <a href="https://twitter.com/Papi3257" className="block text-white">
-              Telegram
+              Twiiter
             </a>
           </div>
         </nav>
